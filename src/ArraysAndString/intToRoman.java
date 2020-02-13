@@ -2,7 +2,7 @@ package ArraysAndString;
 
 public class intToRoman {
     public static void main(String[] args) {
-        int num = 58;
+        int num = 1994; //MCMXCIV
         System.out.println(intToRoman(num));
     }
 
