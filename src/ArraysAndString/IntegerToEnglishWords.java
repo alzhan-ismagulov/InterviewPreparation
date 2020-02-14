@@ -1,3 +1,11 @@
+/*
+* Integer to English Words
+Convert a non-negative integer to its english words representation.
+* Given input is guaranteed to be less than 231 - 1.
+Example 1:
+Input: 123
+Output: "One Hundred Twenty Three"
+* */
 package ArraysAndString;
 
 class IntegerToEnglishWords {
