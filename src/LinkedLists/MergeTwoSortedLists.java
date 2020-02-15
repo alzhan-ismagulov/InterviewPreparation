@@ -21,7 +21,7 @@ public class MergeTwoSortedLists {
         }
     }
 
-    class Solution {
+    class Solution2 {
         public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
             // maintain an unchanging reference to node ahead of the return node.
             ListNode prehead = new ListNode(-1);
