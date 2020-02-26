@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Interview Preparation.iml" filepath="$PROJECT_DIR$/Interview Preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Amazon.iml" filepath="$PROJECT_DIR$/LeetCode-Amazon.iml" />
     </modules>
   </component>
 </project>
